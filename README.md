@@ -4,8 +4,6 @@ Bookmarks
 A repository of my personal bookmarks for easy sharing and storage. Been collecting infromation for roughly two years. 
 
 
-
-<TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
 <DL><p>
     <DT><H3 ADD_DATE="1370385274" LAST_MODIFIED="1377502862" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks Bar</H3>
