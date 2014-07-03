@@ -1,8 +1,7 @@
 Bookmarks
-=========
+========
 
-A repository of my personal bookmarks for easy sharing and storage. Been collecting infromation for roughly two years. 
-
+Mai bookmarks!
 
 <H1>Bookmarks</H1>
 <DL><p>
